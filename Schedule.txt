@@ -1,0 +1,10 @@
+Platform Implementation of Secure and Robust Personal Cloud Storage
+2015.10: Git Hub建置(專案名:Secured Cloud Storage)
+2015.11: 文獻研讀
+2015.12~2016.01: RAID 編解碼演算法實現
+2016.02~2016.03: Android API &使用者介面設計
+2016.04~2016.05: RAID & Android 整合
+2016.06: 測試報告
+2016.07:原始碼&系統安裝使用手冊
+2016.08:結案報告
+2016.09:計畫成果報告書
