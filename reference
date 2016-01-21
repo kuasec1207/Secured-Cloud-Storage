@@ -1,0 +1,27 @@
+A. G. Dimakis, P. Godfrey, Y. Wu, M. J. Wainwright, and K. Ramchandran, “Network coding for distributed storage systems,” Information Theory, IEEE Transactions on, vol. 56, pp. 4539-4551, 2010.
+D. S. Papailiopoulos, J. Luo, A. G. Dimakis, C. Huang, and J. Li, “Simple regenerating codes: Network coding for cloud storage,” in INFOCOM, 2012 Proceedings IEEE, 2012, pp. 2801-2805.
+C. Huang, H. Simitci, Y. Xu, A. Ogus, B. Calder, P. Gopalan, et al., “Erasure Coding in Windows Azure Storage,” in Usenix annual technical conference, 2012, pp. 15-26.
+Chunghwa Telecom, “Enterprise Consolidated Backup Service,” http://www.cht.com.tw/enterprise/rb-hidr.html.
+Chunghwa Telecom, “Synchronous Remote Data Service,” http://www.cht.com.tw/enterprise/rb-hidr.html.
+H. Y. Lin, “Data Confidentiality and Robustness in Secure Cloud Storage Systems,” National Chiao Tung University, 2010.
+H. P. Anvin, “The mathematics of RAID-6,” ed, 2007.
+J. S. Plank, “The RAID-6 Liberation codes,” in Usenix conference on file and storage technologies, 2008, pp. 97-110.
+H. C. Chen, Y. Hu, P. P. Lee, and Y. Tang, “NCCloud: a network-coding-based storage system in a cloud-of-clouds,” Computers, IEEE Transactions on, vol. 63, pp. 31-44, 2014.
+Y. Hu, P. P. Lee, and K. W. Shum, “Analysis and construction of functional regenerating codes with uncoded repair for distributed storage systems,” in INFOCOM, 2013 Proceedings IEEE, 2013, pp. 2355-2363.
+Otixo, “Otixo,” http://otixo.com/.
+MultCloud, “MultCloud,” https://www.multcloud.com/.
+Dropbox, “Http Core API,” https://www.dropbox.com/developers/core/docs/.
+box, “Content API Basics,”https://developers.box.com/docs/.
+Copy, “Barracuda Copy API,” https://developers.copy.com/documentation.
+Microsoft, “OneDrive API,” https://dev.onedrive.com/README.htm.
+Google, “Android Activity Lifecycle,” http://developer.android.com/intl/zh-tw/reference/android/app/Activity.html.
+Google, “Android Service Lifecycle,” http://developer.android.com/intl/zh-tw/reference/android/app/Service.html.
+R. T. Fielding, “Architectural styles and the design of network-based software architectures,” University of California, Irvine, 2000.
+H. L. Eran, “The OAuth 1.0 Protocol,” http://tools.ietf.org/pdf/rfc5849.pdf.
+D. Hardt, “The OAuth 2.0 Authorization Framework,” http://tools.ietf.org/pdf/rfc6749.pdf.
+H.-C. Chang, C. B. Shung, and C.-Y. Lee, “A Reed-Solomon product-code (RS-PC) decoder chip for DVD applications,” Solid-State Circuits, IEEE Journal of, vol. 36, pp. 229-238, 2001.
+C. Kim, S. Rhee, J. Kim, and Y. Jee, “Product Reed-Solomon codes for implementing NAND flash controller on FPGA chip,” in Computer Engineering and Applications (ICCEA), 2010 Second International Conference on, 2010, pp. 281-285.
+Matthias Käppler, “Signpost,” https://github.com/mttkay/signpost.
+E. Wallentinsen, “Android 'Pull to Refresh' ListView library,” https://github.com/erikwt/PullToRefresh-ListView.
+Copy, “Copy API Console,” https://developers.copy.com/console.
+Microsoft, “OneDrive API Console,” https://apigee.com/OneDrive/embed/console/OneDrive?apig_cc=1.
